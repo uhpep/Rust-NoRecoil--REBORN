@@ -1,6 +1,5 @@
-# rustnewrecoilscript
-rust new recoil script 
-
+# Rust NoRecoil script #REBORN
+ 
 with imgui
 
 you need visual studio
